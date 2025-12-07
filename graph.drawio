@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4" pages="10">
   <diagram id="J-r_CpbLqWlN1y0CwIUh" name="第 3 页">
     <mxGraphModel dx="2830" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -923,6 +923,88 @@
         </mxCell>
         <mxCell id="cThSu3YU9ehriO22Xwfq-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Run program with default setting&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="41" width="172" height="87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 8 页 的中文副本" id="ZFQ30F9Xo_AEdmULws3G">
+    <mxGraphModel dx="1453" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-0" />
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-1" parent="PtRfxi3E2ZVDpiI5hbkq-0" />
+        <mxCell id="U2mh4v__AiqURA6UPEzo-5" edge="1" parent="PtRfxi3E2ZVDpiI5hbkq-1" source="PtRfxi3E2ZVDpiI5hbkq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="PtRfxi3E2ZVDpiI5hbkq-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="415" />
+              <mxPoint x="634" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-3" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;得到一个不理想的种子集合&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="300" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-4" edge="1" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="PtRfxi3E2ZVDpiI5hbkq-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-5" edge="1" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="PtRfxi3E2ZVDpiI5hbkq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-6" edge="1" parent="PtRfxi3E2ZVDpiI5hbkq-1" source="PtRfxi3E2ZVDpiI5hbkq-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="PtRfxi3E2ZVDpiI5hbkq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-7" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="52" width="181" x="421" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-8" edge="1" parent="PtRfxi3E2ZVDpiI5hbkq-1" source="PtRfxi3E2ZVDpiI5hbkq-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="PtRfxi3E2ZVDpiI5hbkq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-9" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="210" x="192" y="221" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-10" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="γ" vertex="1">
+          <mxGeometry height="30" width="30" x="320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-11" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="1-γ" vertex="1">
+          <mxGeometry height="30" width="50" x="449" y="151" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-12" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;由神经网络生成的种子集合&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="201" x="202" y="233" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-13" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RIS算法生成的种子集合&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="179" x="421" y="233" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-14" edge="1" parent="PtRfxi3E2ZVDpiI5hbkq-1" source="PtRfxi3E2ZVDpiI5hbkq-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.278;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="PtRfxi3E2ZVDpiI5hbkq-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="415" />
+              <mxPoint x="150" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-15" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一个理想的种子集合&lt;/font&gt;" vertex="1">
+          <mxGeometry height="92" width="204" x="303" y="498" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-16" edge="1" parent="PtRfxi3E2ZVDpiI5hbkq-1" source="PtRfxi3E2ZVDpiI5hbkq-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="PtRfxi3E2ZVDpiI5hbkq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-17" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="更新变量 γ" vertex="1">
+          <mxGeometry height="31" width="94" x="43" y="263" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-18" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="重启 RIS 算法" vertex="1">
+          <mxGeometry height="31" width="118" x="642" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-19" edge="1" parent="PtRfxi3E2ZVDpiI5hbkq-1" source="PtRfxi3E2ZVDpiI5hbkq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PtRfxi3E2ZVDpiI5hbkq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-20" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据集&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="345" y="-73" as="geometry" />
+        </mxCell>
+        <mxCell id="PtRfxi3E2ZVDpiI5hbkq-21" parent="PtRfxi3E2ZVDpiI5hbkq-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;使用默认配置运行算法&lt;/span&gt;" vertex="1">
+          <mxGeometry height="87" width="172" x="319" y="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
